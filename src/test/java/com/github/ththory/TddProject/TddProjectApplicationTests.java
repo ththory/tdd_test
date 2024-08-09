@@ -16,6 +16,13 @@ class TddProjectApplicationTests {
     }
 
     @Test
+    public void testFrancMultipication(){
+        Franc five = new Franc(5);
+        assertEquals(new Franc(10), five.times(2));
+        assertEquals(new Franc(15), five.times(3));
+    }
+
+    @Test
     public void testEquals(){
         Dollar five = new Dollar(5);
         assertTrue(five.equals(new Dollar(5)));

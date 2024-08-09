@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.github.ththory.TddProject.TddProjectApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-09T06:06:24" hostname="Ththoryui-MacBookPro.local" time="0.389">
+<testsuite name="com.github.ththory.TddProject.TddProjectApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-09T06:21:11" hostname="Ththoryui-MacBookPro.local" time="0.391">
   <properties/>
-  <testcase name="testMultipication()" classname="com.github.ththory.TddProject.TddProjectApplicationTests" time="0.389"/>
-  <system-out><![CDATA[15:06:23.857 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.github.ththory.TddProject.TddProjectApplicationTests]: TddProjectApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-15:06:23.899 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.github.ththory.TddProject.TddProjectApplication for test class com.github.ththory.TddProject.TddProjectApplicationTests
+  <testcase name="testMultipication()" classname="com.github.ththory.TddProject.TddProjectApplicationTests" time="0.391"/>
+  <system-out><![CDATA[15:21:10.888 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.github.ththory.TddProject.TddProjectApplicationTests]: TddProjectApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:21:10.928 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.github.ththory.TddProject.TddProjectApplication for test class com.github.ththory.TddProject.TddProjectApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -14,9 +14,9 @@
 
  :: Spring Boot ::                (v3.3.2)
 
-2024-08-09T15:06:24.058+09:00  INFO 4269 --- [TddProject] [    Test worker] c.g.t.T.TddProjectApplicationTests       : Starting TddProjectApplicationTests using Java 17.0.11 with PID 4269 (started by ththory in /Users/ththory/Git/tdd_test)
-2024-08-09T15:06:24.059+09:00  INFO 4269 --- [TddProject] [    Test worker] c.g.t.T.TddProjectApplicationTests       : No active profile set, falling back to 1 default profile: "default"
-2024-08-09T15:06:24.502+09:00  INFO 4269 --- [TddProject] [    Test worker] c.g.t.T.TddProjectApplicationTests       : Started TddProjectApplicationTests in 0.549 seconds (process running for 0.992)
+2024-08-09T15:21:11.078+09:00  INFO 4664 --- [TddProject] [    Test worker] c.g.t.T.TddProjectApplicationTests       : Starting TddProjectApplicationTests using Java 17.0.11 with PID 4664 (started by ththory in /Users/ththory/Git/tdd_test)
+2024-08-09T15:21:11.078+09:00  INFO 4664 --- [TddProject] [    Test worker] c.g.t.T.TddProjectApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-08-09T15:21:11.526+09:00  INFO 4664 --- [TddProject] [    Test worker] c.g.t.T.TddProjectApplicationTests       : Started TddProjectApplicationTests in 0.544 seconds (process running for 0.986)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
